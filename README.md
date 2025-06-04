@@ -1,3 +1,4 @@
+ĐÂY LÀ 1 DỰ ÁN API SECURITY TỪ TÂY JAVA TRÊN NỀN TẢNG YOUTUBE NHẰM MỤC ĐÍCH LUYỆN TẬP VÀ HỌC HỎI
 
 ## Prerequisite
 - Cài đặt JDK 17+ nếu chưa thì [cài đặt JDK]
